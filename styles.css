@@ -10,7 +10,7 @@
   }
   
   .bg-image--top {
-    top: -400px;
+    top: -200px;
     left: -100px;
   }
   
@@ -88,6 +88,6 @@
   }
   
   .card__number {
-    margin-bottom: 0.5em;
-    font-size: 1.8rem;
+    margin-bottom: 1em;
+    font-size: 1.5rem;
   }
